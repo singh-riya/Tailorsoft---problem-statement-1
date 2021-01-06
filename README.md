@@ -3,7 +3,6 @@
 1.Team Member:
     Name : Riya Singh
     Email ID- riya99986@gmail.com
-    (I had to solve this problem individually because my team members were not available for this work)
     
  2.Technologies Used:  
  (BASED ON MERN STACK)
